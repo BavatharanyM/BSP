@@ -1,2 +1,4 @@
-package dto;public class BookDTO {
+package dto;
+
+public class BookDTO {
 }
