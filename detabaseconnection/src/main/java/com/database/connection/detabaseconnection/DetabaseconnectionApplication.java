@@ -60,5 +60,9 @@ public class DetabaseconnectionApplication implements CommandLineRunner {
 
 	}
 
-	public static void sampledata{}
+	public static void sampledata{
+		
+		
+		//fhgfhgjghjhgjgj
+	}
 }
